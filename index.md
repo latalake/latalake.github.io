@@ -2,7 +2,7 @@
 
 “路遥知马力，日久见人心”
 
-[ProjectEuler做题](/projecteuler.md)
+[ProjectEuler做题](https://github.com/latalake/latalake.github.io/blob/master/projecteuler.md)
 
 You can use the [editor on GitHub](https://github.com/latalake/latalake.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
